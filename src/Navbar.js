@@ -30,7 +30,7 @@ function Nav() {
       </ul>
       <form className="d-flex" role="search">
         <input className="form-control me-2" type="search" placeholder="Search Property" aria-label="Search"/>
-        <button className="btn btn-outline-success" type="submit">Search</button>
+        <button className="btn btn-outline-success" type="submit">Search 2</button>
       </form>
     </div>
   </div>
